@@ -1,0 +1,416 @@
+[
+  {
+    "lecture": 1,
+    "title": "Anatomical directions and movements",
+    "subtitle": "A consistent vocabulary for describing position, diagrams and movement.",
+    "sections": [
+      {
+        "id": "section-1",
+        "heading": "The anatomical reference",
+        "paragraphs": [
+          "Anatomical descriptions need a stable reference. In anatomical position, the body is upright and faces forward, the upper limbs are at the sides, and the palms face forward. The handout depicts the feet together; wider teaching conventions may show them slightly apart. The important principle is the agreed reference, not an exact foot separation. A seated patient or a rotated model does not redefine the terminology each time it moves.",
+          "Right and left belong to the person being described. A clinician facing a patient sees the patient's right on the clinician's left. Before answering an image question, identify whose body is shown, the view and the stated side. Screen position alone is not a reliable anatomical reference. Ipsilateral means on the same side; contralateral means on opposite sides. These are comparisons, so the structures being related must be stated."
+        ]
+      },
+      {
+        "id": "section-2",
+        "heading": "Directional pairs",
+        "paragraphs": [
+          "Superior means toward the head or a higher part, while inferior means toward the feet or a lower part. The nose is superior to the mouth. Anterior means toward the front and posterior toward the back; the cervical oesophagus is posterior to the trachea. Medial and lateral refer to the median plane: the septum is medial to the nasal conchae. These dimensions should not be substituted for one another.",
+          "Proximal and distal relate to an origin or attachment. The elbow is proximal to the wrist, regardless of which is nearer the examiner. Superficial and deep concern distance from a relevant surface. Skin is superficial to masseter when approached from the lateral face. A statement that one structure overlies another does not automatically establish a superior-inferior or proximal-distal relationship."
+        ]
+      },
+      {
+        "id": "section-3",
+        "heading": "Planes and views",
+        "paragraphs": [
+          "A sagittal plane divides right and left portions; the median plane is the specific midline sagittal plane. A coronal or frontal plane divides anterior and posterior portions. A transverse or axial plane divides superior and inferior portions. These related foundations help interpret later nasal and pharyngeal diagrams even though the first deck mainly concentrates on directions and movements.",
+          "Distinguish a section from the direction in which it is viewed. A medial-wall illustration of the nose, a coronal view showing both nasal sides and a transverse view near the larynx answer different spatial questions. Trace landmarks before relying on a label's familiar appearance. The same structure can have a different outline in a different plane without becoming a different structure."
+        ]
+      },
+      {
+        "id": "section-4",
+        "heading": "Angular movement and translation",
+        "paragraphs": [
+          "Flexion generally decreases the angle between body segments; extension generally increases it. Bending and straightening an elbow illustrate the pair. Hyperextension describes extension beyond a specified neutral/reference position; it does not independently diagnose tissue injury. Dorsiflexion brings the foot toward the shin, while plantarflexion points it away. Do not confuse either with the sole turning inward or outward.",
+          "Abduction moves away from an appropriate reference axis and adduction toward it. The trunk midline is useful for limb movement, but fingers use the middle-finger axis and toes the second-toe axis in standard teaching. Gliding describes sliding between surfaces. A joint can include gliding without being classified as a simple plane joint; the sternoclavicular joint's movement list should not erase its more complex structural classification."
+        ]
+      },
+      {
+        "id": "section-5",
+        "heading": "Rotation and special movements",
+        "paragraphs": [
+          "Rotation turns a segment around its longitudinal axis. Circumduction combines angular movements so the distal end traces a circle and the segment describes a cone. A cricket-bowling example can help distinguish a circular arm path from pure rotation at one joint. Real movement may combine components. The atlas shows the source drawings, while the terms specify which component a question asks about.",
+          "Supination and pronation concern forearm rotation at radioulnar joints. With a flexed elbow, holding a bowl palm-up provides a supination example; turning the palm down illustrates pronation. During pronation, the radius crosses over the ulna. Inversion turns the sole medially and eversion laterally; these chiefly involve hindfoot/intertarsal arrangements rather than a pure ankle hinge action."
+        ]
+      },
+      {
+        "id": "section-6",
+        "heading": "Applying the vocabulary to speech structures",
+        "paragraphs": [
+          "Protraction moves a part forward and retraction moves it backward. Elevation moves it upward and depression downward. A jaw may combine these components, so protruding the mandible is different from simply closing it. The tongue and hyoid also move, but their actions should not be inferred solely from the mandibular outline.",
+          "In an examination answer, name the relevant part, reference and change. For example, lower teeth moving toward upper teeth describe mandibular elevation; a lower jaw moving anteriorly describes protrusion. When the question supplies only a depth relation, avoid choosing an anterior-posterior answer. This disciplined use of stated evidence prepares you for more complex relations of vessels, nerves and swallowing structures."
+        ]
+      }
+    ],
+    "wordCount": 737,
+    "readingMinutes": 4,
+    "sourceIds": [
+      "openstax",
+      "gray"
+    ],
+    "examPrompts": [
+      {
+        "question": "Explain how you would distinguish flexion, rotation and circumduction in a practical demonstration.",
+        "model": "Flexion describes an angular decrease at a specified joint, as when the elbow bends. Rotation is turning around a longitudinal axis. Circumduction combines angular movements so the distal part traces a circle and the segment describes a cone. State the body part and reference before interpreting a drawing. A circular hand path alone does not prove pure axial rotation, and a real movement may combine more than one component."
+      }
+    ]
+  },
+  {
+    "lecture": 2,
+    "title": "Nose and paranasal sinuses",
+    "subtitle": "Connect cavity boundaries, drainage routes, sensory pathways and function.",
+    "sections": [
+      {
+        "id": "section-1",
+        "heading": "The external framework and cavity",
+        "paragraphs": [
+          "The nose includes the visible external structure and the deeper nasal cavities. The external nares are anterior entrances; the paired choanae communicate posteriorly with the nasopharynx. The root, dorsum, apex and alae are surface landmarks. The upper framework includes nasal bones and neighboring frontal and maxillary contributions. Cartilages provide much of the flexible anterior and inferior support. These structures should not be confused with the deeper septum or lateral-wall passages.",
+          "The vestibule lies just within the nostril and initially has skin-related lining and hairs. Farther inside, respiratory mucosa supports warming, humidification and clearance. Olfactory mucosa occupies specialized superior regions. A question about a visible nostril margin, a mucosal passage or a smell receptor therefore requires a different anatomical answer even though all are associated with the nose."
+        ]
+      },
+      {
+        "id": "section-2",
+        "heading": "Boundaries of the nasal cavity",
+        "paragraphs": [
+          "The hard palate forms the nasal floor and oral roof. Its major bony contributions are palatine processes of the maxillae and horizontal plates of the palatine bones. The roof is narrow and includes frontonasal, ethmoidal and sphenoidal regions. The cribriform plate is part of the roof, not the floor. It transmits olfactory filaments and relates the superior nasal region to the anterior cranial fossa.",
+          "The septum forms the medial partition. Principal components are the perpendicular ethmoid plate superiorly, vomer posteroinferiorly and septal cartilage anteriorly, supported by adjacent crests. The lateral wall has several bony contributions and the projecting conchae. A coronal diagram is particularly helpful for seeing the septum between the right and left lateral walls. The inferior concha is an independent bone; middle and superior conchae are ethmoidal parts."
+        ]
+      },
+      {
+        "id": "section-3",
+        "heading": "Drainage pathways",
+        "paragraphs": [
+          "A meatus lies beneath a concha. The inferior meatus receives the nasolacrimal duct, explaining why tears can reach the nose. The middle-meatus region receives frontal, maxillary and anterior/middle ethmoidal pathways. Posterior ethmoidal cells drain chiefly to the superior meatus. The sphenoid sinus opens into the sphenoethmoidal recess above/posterior to the superior concha. The recess and superior meatus are not interchangeable names.",
+          "Learn this map as relationships rather than four isolated labels. First identify the wall and concha, then the passage below it and finally the structure opening there. The atlas provides both overview and labeled source diagrams. A sinus is a cavity, an ostium is its opening, a concha is a projection, and a meatus is a passage. Confusing those categories creates avoidable multiple-choice errors."
+        ]
+      },
+      {
+        "id": "section-4",
+        "heading": "The four sinus groups",
+        "paragraphs": [
+          "The maxillary sinus lies in the maxilla with an orbital roof relationship and inferior relationships to upper posterior teeth. These connections help explain possible dental-sinus interactions but do not diagnose the cause of any toothache. Its natural ostium is relatively high on the medial wall, so normal clearance cannot be explained by gravity alone. Coordinated cilia move secretions toward natural drainage pathways.",
+          "Frontal sinuses vary considerably in size and symmetry. The sphenoid sinuses lie in the sphenoid body near important skull-base structures, including the sellar region. Ethmoidal air cells lie between the nasal cavity and orbit; the thin lamina papyracea explains an important potential route of orbital complications. Generalized drawings show relationships, not identical sinus dimensions in every individual."
+        ]
+      },
+      {
+        "id": "section-5",
+        "heading": "Vessels, nerves and lymph",
+        "paragraphs": [
+          "The sphenopalatine artery follows the maxillary branch of the external carotid system. Ethmoidal arteries follow the ophthalmic/internal carotid system. Facial branches also make important nasal contributions. These routes anastomose, so one artery should not be treated as the sole supply of every nasal region. Venous networks and lymphatic drainage are separate systems rather than alternative names for these arteries.",
+          "CN I carries smell signals through the cribriform plate. Ordinary nasal sensation chiefly involves trigeminal V1 and V2 branches. The external nose also has regional trigeminal skin supply. Specify the modality before answering a nerve question: smelling a scent is different from sensing touch or irritation. Vestibular lymph commonly reaches submandibular pathways, while posterior/deeper regions relate to retropharyngeal and deep cervical routes."
+        ]
+      },
+      {
+        "id": "section-6",
+        "heading": "Function and related lymphoid tissue",
+        "paragraphs": [
+          "Nasal mucosa conditions inspired air and participates in clearance. Sinuses contribute to skull architecture and may influence acoustic characteristics, but they do not generate voiced sound. Vocal folds are the principal normal voiced source, with upper spaces acting as part of the acoustic filter. The slide's claims about sinus functions should be interpreted as proposed or variable contributions rather than equal proven effects in every person.",
+          "Waldeyer's ring includes pharyngeal, tubal, palatine and lingual tonsillar tissues. Adenoids occupy a nasopharyngeal region, palatine tonsils lie in the oropharynx, and lingual tissue relates to the tongue base. Tubal tissue is associated with the auditory-tube opening; it is not identical to the adjacent pharyngeal recess. These landmarks connect the nose module with the later pharynx module and help explain why adjacent structures must still be named separately."
+        ]
+      }
+    ],
+    "wordCount": 756,
+    "readingMinutes": 4,
+    "sourceIds": [
+      "gray",
+      "moore",
+      "nose"
+    ],
+    "examPrompts": [
+      {
+        "question": "Trace the principal drainage pathways from the named sinus groups and distinguish them from tear drainage.",
+        "model": "The nasolacrimal duct opens to the inferior meatus. Frontal, maxillary and anterior/middle ethmoidal pathways relate chiefly to the middle meatus. Posterior ethmoidal cells drain to the superior meatus. The sphenoid sinus opens into the sphenoethmoidal recess. State whether the label names a projection, passage, opening or cavity. Mucociliary transport supports clearance; the high maxillary ostium is not explained adequately by gravity alone."
+      }
+    ]
+  },
+  {
+    "lecture": 3,
+    "title": "Nasal septum and epistaxis",
+    "subtitle": "Learn the vascular map and interpret the management slides proportionately.",
+    "sections": [
+      {
+        "id": "section-1",
+        "heading": "Septal and lateral-wall anatomy",
+        "paragraphs": [
+          "The septum is a medial partition formed from cartilage and bone with supporting attachments. Deviation describes displacement from a midline course; perforation describes a through-defect. Neither term should be substituted for the other. The lateral wall contains projections and drainage structures. The ethmoidal bulla, uncinate process and semilunar hiatus help orient middle-meatus anatomy; they are not separate names for the septum.",
+          "The nerve diagram distinguishes olfactory filaments from general sensory routes. The anterior ethmoidal nerve belongs to V1-related pathways and the nasopalatine nerve to V2. Secretomotor fibers can travel with regional branches without becoming trigeminal-origin somatic sensory fibers. For example, facial greater-petrosal contributions reach pterygopalatine pathways. Learn fiber origin, ganglion and final carrier as different questions."
+        ]
+      },
+      {
+        "id": "section-2",
+        "heading": "Anterior and posterior bleeding",
+        "paragraphs": [
+          "Little's area is an anteroinferior septal region associated with Kiesselbach's arterial anastomosis. Common teaching contributions include anterior ethmoidal, sphenopalatine, greater palatine and superior labial branches. The first links to the ophthalmic/internal carotid system; the others principally follow external carotid routes. The concept is a communicating arterial region, not a single vessel supplying every case.",
+          "Posterior epistaxis often involves deeper arterial branches, especially sphenopalatine routes. Woodruff's plexus is a traditionally described posterior lateral venous plexus, but the literature is inconsistent about that historical label. It should not be treated as a synonym for all posterior arteries. Blood in the throat raises a possibility rather than proving a specific source, since anterior bleeding can also track backward. The slide's percentages are broad teaching approximations, not diagnostic probabilities for every setting."
+        ]
+      },
+      {
+        "id": "section-3",
+        "heading": "Local contributors",
+        "paragraphs": [
+          "Inflamed mucosa may become more friable. Digital trauma, nasal instrumentation, dryness, crusting, septal abnormalities, foreign bodies and lesions are possible local contributors. A hypothetical child with unilateral symptoms may need assessment for a foreign body, but age alone does not establish one. A persistent unusual bleeding pattern may warrant investigation for a lesion without proving that it is neoplastic.",
+          "Iatrogenic means associated with medical intervention, not inherited. A local trigger can coexist with anticoagulant use or another systemic contributor. Clinical histories should therefore avoid an artificial choice between local and systemic causes. An anatomy question may ask which region is vulnerable or which pathway supplies it; a clinical conclusion needs more evidence than the drawing alone."
+        ]
+      },
+      {
+        "id": "section-4",
+        "heading": "Systemic contributors and terminology",
+        "paragraphs": [
+          "HHT is an inherited vascular disorder associated with telangiectasias and arteriovenous malformations, not simply a low platelet count. Hypertension can be relevant to assessment and management, but a high reading during a stressful bleed does not prove the sole immediate cause. The modern name granulomatosis with polyangiitis replaces Wegener's granulomatosis. The other inflammatory conditions listed in the deck are differential considerations rather than diagnoses from ordinary nasal symptoms.",
+          "Platelet number, platelet function and coagulation-factor pathways are distinct. Hemophilia, von Willebrand disease, thrombocytopenia, acquired disease and medication effects should not be collapsed into one mechanism. Polycythemia vera is a myeloproliferative disorder rather than simply an inherited clotting-factor deficiency. Uremia and liver disease can influence hemostasis through different routes. A medicine history informs the treating clinician; the course is not an instruction to stop an individual's prescribed anticoagulant."
+        ]
+      },
+      {
+        "id": "section-5",
+        "heading": "Management principles",
+        "paragraphs": [
+          "Initial assessment considers airway, breathing, circulation, bleeding severity and relevant history. Common public first-aid principles include forward posture and firm sustained pressure on the soft lower nose, rather than backward head tilt or squeezing only the bony bridge. Persistent/heavy bleeding, breathing difficulty, faintness or significant injury require medical attention. These principles explain why anatomy matters without teaching invasive self-treatment.",
+          "Cautery, packing and other interventions are selected by trained clinicians according to the site and circumstances. Anterior packing is not guaranteed to control every posterior source. Posterior packing can require hospital observation and cardiorespiratory monitoring. Oxygen, analgesia, antibiotics and other measures are not identical universal prescriptions for every patient. The lecture's list should be read as possible clinical considerations rather than a fixed home-care protocol."
+        ]
+      },
+      {
+        "id": "section-6",
+        "heading": "Escalation and examination reasoning",
+        "paragraphs": [
+          "Persistent or recurrent bleeding may require specialist localization and endoscopic, surgical or interventional-radiology approaches. A statement about failure after seventy-two hours must not become a rule to wait through ongoing severe bleeding. Severity, stability and response govern escalation. Discharge advice addresses mucosal care, avoidance of renewed trauma and a clear plan if symptoms recur.",
+          "In an examination, distinguish site, vessel, mechanism and next priority. A question specifying an anterior septal anastomosis favors Kiesselbach's region. A question about medication effects concerns hemostasis, not a new septal bone. A case of heavy bleeding with faintness first requires assessment of the person rather than immediate memorized selection of an artery. Qualified reasoning is more accurate than a universal rule attached to age or one symptom."
+        ]
+      }
+    ],
+    "wordCount": 742,
+    "readingMinutes": 4,
+    "sourceIds": [
+      "gray",
+      "moore",
+      "epistaxis",
+      "firstaid",
+      "woodruff"
+    ],
+    "examPrompts": [
+      {
+        "question": "Explain why the slide categories anterior and posterior epistaxis do not identify every bleeding source from the route of visible blood.",
+        "model": "Anterior bleeding commonly arises from the anterior septum, while posterior bleeding often involves deeper arterial branches. Blood can emerge anteriorly or track into the throat from more than one source, so the exit route alone does not precisely localize the vessel. Assessment considers site, severity, history and response. Kiesselbach is an anterior arterial anastomotic region; Woodruff is a historical venous label with inconsistent descriptions, not a universal name for posterior arteries."
+      }
+    ]
+  },
+  {
+    "lecture": 4,
+    "title": "TMJ and muscles of mastication",
+    "subtitle": "Understand joint mechanics through surfaces, compartments and coordinated muscle actions.",
+    "sections": [
+      {
+        "id": "section-1",
+        "heading": "A paired joint with complex motion",
+        "paragraphs": [
+          "The TMJ links the mandibular condyle with the temporal articular region. It lies anterior to the external acoustic meatus and works as a paired system during normal jaw movements. The mandibular coronoid process is not the articular head; it is an important temporalis attachment. A student should identify both processes before trying to interpret movement arrows.",
+          "The handout calls the joint synovial and condylar. A useful functional description is modified hinge or ginglymoarthrodial because rotation and gliding translation both occur. Its articular covering is described as fibrous/fibrocartilaginous rather than the typical hyaline covering of many synovial joints. Structural type, covering and movement are different features, so one label does not answer every question about the joint."
+        ]
+      },
+      {
+        "id": "section-2",
+        "heading": "Disc, capsule and compartments",
+        "paragraphs": [
+          "The disc is generally biconcave, with a thinner intermediate region. It divides the joint into superior and inferior synovial compartments. Rotation is associated mainly with the inferior space between condyle and disc; translation is associated mainly with the superior space between the disc-condyle complex and the temporal articular surface. These are teaching distinctions within coordinated movement, not perfectly independent events.",
+          "During wider opening, the complex translates forward along the articular eminence. The disc is not rigidly fixed in one spot through the entire movement. The capsule encloses the joint and relates to temporal margins, mandibular neck and disc attachments. A static picture can show these relations, but it cannot alone establish the cause of pain or a movement disorder in an individual."
+        ]
+      },
+      {
+        "id": "section-3",
+        "heading": "Ligaments and nearby structures",
+        "paragraphs": [
+          "The lateral temporomandibular ligament reinforces the capsule and helps constrain excessive displacement. The sphenomandibular ligament extends from the sphenoid spine toward the mandibular lingula. The stylomandibular ligament relates the styloid region to the posterior mandibular angle/ramus region. Similar names should be learned through their attachment pairs rather than treated as interchangeable bands.",
+          "Medially, important nearby structures include the auriculotemporal nerve, maxillary arterial relationships and accessory ligaments. Posteriorly, the external acoustic meatus is close. Sensory supply is substantially V3-related, with auriculotemporal and additional masseteric/deep temporal contributions. Regional arterial supply involves superficial temporal and maxillary systems. Proximity explains why precise localization is needed, not why every ear-region symptom must originate at the TMJ."
+        ]
+      },
+      {
+        "id": "section-4",
+        "heading": "Four principal muscles",
+        "paragraphs": [
+          "Masseter runs from the zygomatic arch to the lateral mandibular ramus and angle and powerfully elevates the mandible. Temporalis arises in the temporal fossa/fascia and inserts toward the coronoid process and anterior ramus. It elevates the jaw, while posterior fibers contribute importantly to retraction. These attachments explain actions better than an isolated list of movement words.",
+          "The medial pterygoid inserts on the medial ramus/angle and complements masseter in a functional sling. It elevates and assists protrusion and lateral movement. Lateral pterygoid heads relate to sphenoid origins and condylar-neck/disc-capsule targets, contributing to protrusion, translation/opening and asymmetric excursions. Head-specific coordination is more complex than a one-line action table. All four principal masticatory muscles receive motor supply through V3, unlike facial-expression muscles supplied principally by VII."
+        ]
+      },
+      {
+        "id": "section-5",
+        "heading": "Putting movements together",
+        "paragraphs": [
+          "Elevation is chiefly supported by masseter, temporalis and medial pterygoid. Protrusion particularly involves bilateral lateral pterygoid activity with assistance; retrusion includes posterior temporalis and other contributors. Side-to-side chewing uses asymmetric coordination. In a simplified model, unilateral pterygoid activity contributes movement toward the opposite side. If isolated peripheral motor weakness is specified, the jaw can deviate toward the weak side on opening.",
+          "Jaw depression is not the work of one muscle acting without context. Rotation, translation, suprahyoid assistance, fixation and gravity contribute. Digastric, mylohyoid and geniohyoid can assist depression when the hyoid is appropriately stabilized. The same muscle's effect depends on which attachment is relatively fixed. A movement question should therefore state the assumptions instead of making every muscle action absolute."
+        ]
+      },
+      {
+        "id": "section-6",
+        "heading": "Functional and clinical interpretation",
+        "paragraphs": [
+          "Excessive anterior movement beyond the articular eminence can illustrate a dislocation mechanism with impaired closure. This does not mean every click is a dislocation or that a learner should attempt reduction. Disc coordination, joint condition and surrounding tissues require clinical assessment. A static drawing teaches anatomy rather than certifying a diagnosis.",
+          "Jaw stability and movement support chewing and help position articulators for speech. They do not replace vocal-fold vibration as the source of voiced sound. In a practical example, a student can alter jaw opening while producing a vowel and notice an articulatory change without claiming the joint itself is generating normal phonation. For examination answers, connect attachments to actions, state the relevant compartment and distinguish an observed movement from a diagnostic inference."
+        ]
+      }
+    ],
+    "wordCount": 715,
+    "readingMinutes": 4,
+    "sourceIds": [
+      "gray",
+      "moore",
+      "tmj"
+    ],
+    "examPrompts": [
+      {
+        "question": "Explain why mouth opening cannot be described accurately as a simple hinge action by one isolated muscle.",
+        "model": "TMJ opening includes rotation chiefly in the inferior compartment and translation chiefly in the superior compartment. The disc-condyle complex changes its relationship to the temporal articular region. Lateral pterygoid and suprahyoid contributions, fixation of related structures and other factors cooperate. Muscle actions depend on attachments and coordination, so one-word summaries are useful introductory guides rather than complete accounts of every task."
+      }
+    ]
+  },
+  {
+    "lecture": 5,
+    "title": "Pharynx, blood supply and nerve pathways",
+    "subtitle": "Link the regional map with swallowing, tonsillar anatomy and careful voice interpretation.",
+    "sections": [
+      {
+        "id": "section-1",
+        "heading": "A regional map of the pharynx",
+        "paragraphs": [
+          "The pharynx is a mucosa-lined fibromuscular passage behind the nasal cavity, mouth and larynx. It extends from the skull base toward the lower border of the cricoid near C6, where it continues into the oesophagus. Adult length estimates are approximate. Distinguish this passage from the larynx and trachea even though air and food pathways are closely related.",
+          "The nasopharynx lies behind the nasal cavities, extending down to soft-palate level. The oropharynx lies behind the mouth, with palatine tonsils in its lateral regions. The laryngopharynx or hypopharynx relates to the larynx posteriorly and laterally before continuing into the oesophagus. Boundary conventions near the epiglottis and hyoid vary across descriptions; the important approach is to identify the stated convention rather than turn an approximate line into a universal individual boundary."
+        ]
+      },
+      {
+        "id": "section-2",
+        "heading": "Wall and muscle groups",
+        "paragraphs": [
+          "The teaching wall sequence proceeds outward through mucosa, pharyngobasilar supporting fascia, muscle and buccopharyngeal fascia. The pharyngeal aponeurosis label corresponds to a supporting fibrous layer rather than an additional voluntary muscle. Outer fascia is not the same as inner epithelium. Following the layers from lumen to exterior prevents an easy reversal in anatomy questions.",
+          "Superior, middle and inferior constrictors contribute to coordinated pharyngeal narrowing. Longitudinal muscles include stylopharyngeus, palatopharyngeus and salpingopharyngeus and contribute elevation/shortening. Swallowing uses their coordinated effects, not a passive tube or one isolated squeezing ring. The neighboring cricopharyngeal region also matters for the pharyngoesophageal passage described in the final module."
+        ]
+      },
+      {
+        "id": "section-3",
+        "heading": "Tonsils and functional openings",
+        "paragraphs": [
+          "The pharyngeal tonsil or adenoid occupies a roof/posterior nasopharyngeal region. The auditory tube opens into the lateral nasopharyngeal wall. These relations help connect this module with nasal cavity anatomy. Tubal lymphoid tissue is near the tubal opening, while the adjacent recess is a distinct structure. An enlarged region may affect nearby function, but a drawing does not establish symptoms in a particular person.",
+          "Palatine tonsils lie between the anterior palatoglossal and posterior palatopharyngeal arches. The first contains palatoglossus and the second palatopharyngeus. In the lower pharynx, pyriform recesses lie beside the laryngeal inlet and the postcricoid region lies posteriorly. This explains why the hypopharynx is more than a narrow strip directly behind the larynx. The atlas offers posterior and lateral views to help reconcile these perspectives."
+        ]
+      },
+      {
+        "id": "section-4",
+        "heading": "Motor, sensory and autonomic distinctions",
+        "paragraphs": [
+          "Most pharyngeal skeletal motor supply is vagal, while stylopharyngeus is the major glossopharyngeal exception. Tensor veli palatini is a palatal V3 exception nearby and should not be confused with a pharyngeal constrictor. The major regional general-sensory teaching map is V2 for nasopharynx, IX for oropharynx and X for laryngopharynx. Specify motor versus sensory before choosing the nerve.",
+          "The pharyngeal plexus contains contributions serving different roles. The conventional gag-reflex account distinguishes IX afferent from X efferent pathways, but a gag response alone does not prove safe swallowing. Sympathetic contributions relate to cervical pathways. The slide's parasympathetic VII shorthand is incomplete as a universal rule; secretomotor pathways depend on the target tissue and region. Do not expand a narrow shorthand into a claim about all autonomic functions."
+        ]
+      },
+      {
+        "id": "section-5",
+        "heading": "Blood and lymph",
+        "paragraphs": [
+          "Ascending pharyngeal supply comes from the external carotid system. The facial artery contributes ascending palatine and tonsillar branches, while the maxillary system contributes descending palatine pathways and the lingual system dorsal branches. These routes are related through regional contributions and should be traced from named parents. Ascending pharyngeal and ascending palatine are not synonyms merely because the names begin similarly.",
+          "Lymph routes are separate from arterial supply. Nasopharyngeal regions communicate with retropharyngeal and upper deep cervical pathways. Oropharyngeal drainage includes the jugulodigastric/tonsillar region. Hypopharyngeal drainage involves deeper cervical and related lower-neck pathways with subsite variation. Arrows in a teaching diagram are useful regional guides, not enough to infer an individual's disease spread or stage."
+        ]
+      },
+      {
+        "id": "section-6",
+        "heading": "Voice material included in the deck",
+        "paragraphs": [
+          "One page lists causes of hoarseness. Retain the topic but separate it from pharyngeal wall anatomy. Hoarseness is a symptom of altered phonatory function with possible inflammatory, structural, neurological, congenital and other contributors. Reflux, a nerve lesion or a malignancy is not confirmed merely because each appears in a differential list.",
+          "Nodules and many polyps are benign and should not all be labeled malignant neoplasms. Laryngeal nerve function differs from the regional pharyngeal sensory map. A teacher's persistent voice change needs appropriate evaluation, not diagnosis from an anatomy paragraph. Indirect laryngoscopy and posterior rhinoscopy images show professional examination concepts; they are not instructions for invasive self-examination. The strongest exam explanation names the structure, pathway and evidence while acknowledging what the supplied information cannot determine."
+        ]
+      }
+    ],
+    "wordCount": 720,
+    "readingMinutes": 4,
+    "sourceIds": [
+      "gray",
+      "moore",
+      "pharynx",
+      "voice"
+    ],
+    "examPrompts": [
+      {
+        "question": "Compare pharyngeal motor and general sensory supply and explain one limit of reflex-based conclusions.",
+        "model": "Most pharyngeal motor supply is vagal, with stylopharyngeus supplied by IX. Tensor veli palatini is a neighboring palatal V3 exception. The regional sensory teaching map is V2 for nasopharynx, IX for oropharynx and X for laryngopharynx. A conventional gag model uses IX afferent and X efferent pathways. These observations distinguish modalities; a gag response alone does not demonstrate safe functional swallowing or exclude aspiration."
+      }
+    ]
+  },
+  {
+    "lecture": 6,
+    "title": "Tongue, oesophagus and swallowing",
+    "subtitle": "Use regional anatomy to distinguish sensation, movement, transport and airway protection.",
+    "sections": [
+      {
+        "id": "section-1",
+        "heading": "Oral and tongue landmarks",
+        "paragraphs": [
+          "The oral cavity includes the vestibule and cavity proper, with the dental arches helping distinguish them. Hard palate is the bony roof and soft palate the mobile posterior component. The lingual frenulum is a ventral mucosal fold, not the dorsal terminal sulcus. The tongue is mainly skeletal muscle and has no rigid internal bony skeleton, although external attachments anchor it. This flexibility supports both position and shape changes.",
+          "The terminal sulcus separates the anterior oral two-thirds from the posterior pharyngeal third. Foramen cecum lies near its apex and relates to thyroglossal development. The handout's first-to-fourth arch phrase needs qualification: mucosal contributions differ by region, second-arch tissue is largely overgrown, and most muscle derives from occipital myotomes. Developmental regions and adult sensory maps are related without every arch contributing equally everywhere."
+        ]
+      },
+      {
+        "id": "section-2",
+        "heading": "Muscles and motor supply",
+        "paragraphs": [
+          "Extrinsic muscles chiefly alter position while intrinsic muscles chiefly shape the tongue, although these roles overlap in coordinated function. Genioglossus has a mandibular origin and contributes to protrusion/depression through different fibers. Hyoglossus relates hyoid to tongue and contributes depression. Styloglossus retracts and elevates. Palatoglossus links palate and tongue and contributes to narrowing the oral-pharyngeal opening.",
+          "Superior longitudinal fibers contribute shortening and upward curling; inferior longitudinal fibers contribute shortening and downward tip shaping. Transverse fibers narrow/elongate, while vertical fibers flatten/broaden. The transverse muscle is not the median connective-tissue septum. XII supplies the intrinsic and most extrinsic muscles; palatoglossus is the usual vagal exception. Geniohyoid is a separate suprahyoid muscle supplied by C1 fibers traveling with XII. A carrier nerve does not change a fiber's origin."
+        ]
+      },
+      {
+        "id": "section-3",
+        "heading": "Sensation and papillae",
+        "paragraphs": [
+          "For most anterior tongue mucosa, ordinary sensation follows lingual V3 and taste follows chorda tympani VII traveling with the lingual route. IX carries general sensation and taste from much of the posterior third. Internal laryngeal vagal pathways serve epiglottic-adjacent regions. Circumvallate papillae are a key IX taste exception despite lying just anterior to the terminal sulcus. Always specify both region and modality.",
+          "Filiform papillae have a mechanical role without taste buds in the standard classification. Fungiform, circumvallate and foliate papillae are associated with taste buds. A taste bud is not the whole visible papilla. Taste qualities are not confined to mutually exclusive sweet, sour, salty and bitter zones. Regional sensitivity differences do not rescue a rigid exclusive-zone map."
+        ]
+      },
+      {
+        "id": "section-4",
+        "heading": "Vessels, movement and function",
+        "paragraphs": [
+          "The lingual artery is an external-carotid branch with dorsal and anterior/deep routes. Veins communicate ultimately with internal-jugular-related drainage, while lymph routes vary by tongue region and may cross the midline. Do not substitute a motor nerve for a blood vessel or assume every region drains to one ipsilateral node. A stated peripheral XII lesion can produce deviation toward the weak side on protrusion; the same simple rule must not be imposed on every central lesion or other movement abnormality.",
+          "In speech, coordinated muscle activity shapes constrictions and the vocal tract rather than one muscle independently generating an entire sound. During eating, the tongue gathers and positions food and helps propulsion. It cannot be literally swallowed whole, but attachment does not mean posterior tongue position can never obstruct an airway. Distinguish the myth from the real positional mechanism without turning anatomy notes into emergency procedures."
+        ]
+      },
+      {
+        "id": "section-5",
+        "heading": "Oesophageal course and normal narrowings",
+        "paragraphs": [
+          "The adult oesophagus begins near C6 at the lower cricoid border, passes through the diaphragm near T10 and joins the stomach near T11. Approximately twenty-five centimetres is a reference length, not an exact individual measurement. Its cervical portion lies behind the trachea; thoracic relations include aortic, bronchial and cardiac neighbors. A short abdominal segment precedes gastric entry.",
+          "The upper junction, aortic and left bronchial impressions, and diaphragmatic passage form common constriction lists. Some schemes group middle impressions and list three rather than four. The source's exact T3/T6 and incisor-distance figures should not be treated as immutable. Learn the structures and sequence, then use the stated reference convention. Normal narrowings are not themselves pathological strictures. Muscle changes from predominantly striated proximally to smooth distally, with a transition rather than identical tissue throughout."
+        ]
+      },
+      {
+        "id": "section-6",
+        "heading": "Coordinated swallowing",
+        "paragraphs": [
+          "Oral preparation includes processing, saliva mixing and gathering a bolus; oral propulsion moves it posteriorly. Three-stage schemes often group these oral components, while four-stage schemes separate them. During the pharyngeal stage, propulsion, velopharyngeal separation, laryngeal protection and pharyngoesophageal opening cooperate. Natural eating includes overlapping events rather than perfectly isolated boxes.",
+          "Hyolaryngeal excursion supports protection and opening. The epiglottis is cartilage whose inversion participates in a larger sequence; it is not an isolated muscle or an independent guarantee against aspiration. Segment opening depends on reduced resistance, traction and bolus-related forces. Oesophageal peristalsis then transports material toward the stomach. Penetration enters the laryngeal vestibule without passing below the vocal folds; aspiration passes below them. Nasal regurgitation follows a different route. One successful oral movement or gag response does not establish safety of every stage, which requires appropriate assessment."
+        ]
+      }
+    ],
+    "wordCount": 783,
+    "readingMinutes": 4,
+    "sourceIds": [
+      "gray",
+      "moore",
+      "tongue",
+      "palatoglossus",
+      "oesophagus",
+      "complete",
+      "swallow"
+    ],
+    "examPrompts": [
+      {
+        "question": "Explain why tongue sensation, motor supply and swallowing protection cannot be represented by one nerve or one protective structure.",
+        "model": "The tongue has distinct regional sensory maps: most anterior general sensation is V3 and taste VII, much posterior sensation/taste is IX, and epiglottic-adjacent regions involve X. XII supplies most tongue motor function, with palatoglossus as a vagal exception. Swallowing protection also requires coordinated laryngeal closure, hyolaryngeal movement and other events. Epiglottic inversion alone does not guarantee safety, and nasal escape differs from material passing below the vocal folds."
+      }
+    ]
+  }
+]
